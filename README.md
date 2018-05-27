@@ -1,0 +1,2 @@
+# rummybot
+Plays rummy
