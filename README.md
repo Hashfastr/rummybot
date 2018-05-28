@@ -3,7 +3,9 @@ Plays Liverpool Rummy, Rummy 500, Gin Rummy
 
 ## Commands/Flow of play
 `> type (l, 5, g)`
+
 `> players (2-∞)`
+
 `> decks (1-∞)`
 
 ### Liverpool
@@ -16,7 +18,8 @@ Alternatively one three of a kind and one straight
 `> 1-3, 1-4`
 
 It then will ask for hand size, it will suggest a hand size based on the objective (number of objective cards + 1)
-Handsize? [totalobj + 1]
+`Handsize? [totalobj + 1]`
+
 `> 1-∞`
 
 ### Rummy 500
