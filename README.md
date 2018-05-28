@@ -12,10 +12,14 @@ Plays Liverpool Rummy, Rummy 500, Gin Rummy
 If Liverpool Rummy enter the objective, ?-3 for three of a kinds, ?-4 for 4 card straights
 
 For example for two three of a kinds and no straights
-`> 2-3, 0-4`
+```
+> 2-3, 0-4
+```
 
 Alternatively one three of a kind and one straight
-`> 1-3, 1-4`
+```
+> 1-3, 1-4
+```
 
 It then will ask for hand size, it will suggest a hand size based on the objective (number of objective cards + 1)
 ```
